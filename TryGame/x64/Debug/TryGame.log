@@ -1,0 +1,18 @@
+﻿  background.cpp
+D:\vsstudio\codeC++\game\TryGame\TryGame\background.cpp(8,22): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\vsstudio\codeC++\game\TryGame\TryGame\background.cpp(8,22): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\vsstudio\codeC++\game\TryGame\TryGame\background.cpp(12,22): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\vsstudio\codeC++\game\TryGame\TryGame\background.cpp(12,22): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+  Game.cpp
+  GameOverScreen.cpp
+  Item.cpp
+  main.cpp
+  menu.cpp
+  pausescreen.cpp
+  Player.cpp
+  point.cpp
+  score.cpp
+  setting.cpp
+  story.cpp
+  Generating Code...
+  TryGame.vcxproj -> D:\vsstudio\codeC++\game\TryGame\x64\Debug\TryGame.exe
